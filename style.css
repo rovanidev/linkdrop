@@ -271,23 +271,22 @@ font-size: 30px;
   cursor: pointer;
  }
 
- .recomendações {
-  background-image: url(img/recomendações-.png);
+ .codebr {
+  background-image: url(img/codebr.png);
   height: 165px;
   width: 100%;
   border-radius: 10px;
  }
 
- .recomendações a {
+ .codebr a {
   display: block;
   height: 100%;
   width: 100%;
  }
 
- .recomendações:hover {
+ .codebr:hover {
   cursor: pointer;
-  background-image: url(img/recomendações.png);
-  transition: 0.4s;
+  background-image: url(img/codebr-.png);
  }
 
  /*Projetos e Colaborações*/
