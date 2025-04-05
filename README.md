@@ -17,4 +17,4 @@ Este projeto é uma **coleção pessoal de links** organizada de forma simples. 
 ## Para acessar
 https://brunorovani.github.io/linkhub/
 
-# links
+# LinkHub
