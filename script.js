@@ -19,11 +19,4 @@ var swiper = new Swiper(".mySwiper", {
     buscar.classList.toggle('bx-x')
    }
 
-   //Portfólio
-
-   let portfolio = document.querySelector('.projetos-icons')
-
-   portfolio.onclick = () => {
-    alert(`Portfólio em desenvolvimento <3.`)
-   }
-  
+ 
