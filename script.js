@@ -8,15 +8,6 @@ var swiper = new Swiper(".mySwiper", {
     },
   });
 
-  //Buscar()
 
-
-    let buscar = document.querySelector('.bx-search-alt')
-    let meme = document.querySelector('.meme')
-
-   buscar.onclick  = () => {
-    meme.classList.toggle('show')
-    buscar.classList.toggle('bx-x')
-   }
 
  

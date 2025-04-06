@@ -83,25 +83,7 @@ font-size: 30px;
   cursor: pointer;
 }
 
-.meme {
-  position: absolute;             /* Faz o elemento ficar fixo na tela */
-  top: 0;                      /* Alinha o topo do elemento ao topo da tela */
-  left: 0;                     /* Alinha a esquerda do elemento à esquerda da tela */
-  right: 0;                    /* Faz o elemento ir até a borda direita da tela */
-  bottom: 0;                   /* Faz o elemento ir até a borda inferior da tela */
-  background-image: url('img/meme.png'); /* Define a imagem de fundo */
-  background-size: cover;     /* Faz a imagem cobrir toda a área do elemento */
-  background-position: center; /* Centraliza a imagem dentro do elemento */
-  display: none;               /* Inicialmente, o elemento fica invisível */
-  z-index: 999;   
-  border-radius: 15px;
-}
 
-.meme.show {
-  display: block;
-  opacity: 1;                  /* Aumenta a opacidade */
-    transform: scale(1);  
-}
 
 .bx-search-alt {
   z-index: 1000;
@@ -171,28 +153,46 @@ font-size: 30px;
     font-size: 30px;
   }
 
-  .hardskills-icons:hover {
-    background-color: #0f0f0f;
+  .icon:hover {
+    color: rgb(52, 103, 212);
+    transition: 0.5s;
+    transform: scale(0.9);
   }
 
   .bxl-html5:hover {
     color: rgb(255, 123, 0);
     transition: 0.5s;
+    transform: scale(0.9);
   }
 
   .bxl-css3:hover {
     color: rgb(27, 45, 209);
     transition: 0.5s;
+    transform: scale(0.9);
   }
 
   .bxl-javascript:hover{
     color: yellow;
     transition: 0.5s;
+    transform: scale(0.9);
   }
 
   .bxl-github:hover {
     color: black;
     transition: 0.5s;
+    transform: scale(0.9);
+  }
+  
+  .bxl-nodejs:hover {
+    color: rgb(4, 184, 4);
+    transition: 0.5s;
+    transform: scale(0.9);
+  }
+
+  .bx-git-branch:hover {
+    color: orange;
+    transition: 0.5s;
+    transform: scale(0.9);
   }
 
   /*Redes Sociais / Minhas Recomendações*/
