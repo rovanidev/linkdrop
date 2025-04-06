@@ -15,6 +15,6 @@ Este projeto é uma **coleção pessoal de links** organizada de forma simples. 
 - **JavaScript**: Para interatividade básica no site.
 
 ## Para acessar
-https://brunorovani.github.io/linkdrop/
+https://brunorovani.github.io/LinkDrop/
 
 # LinkHub
