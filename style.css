@@ -154,7 +154,7 @@ font-size: 30px;
   }
 
   .icon:hover {
-    color: rgb(52, 103, 212);
+    color: rgb(101, 150, 255);
     transition: 0.5s;
     transform: scale(0.9);
   }
@@ -166,7 +166,7 @@ font-size: 30px;
   }
 
   .bxl-css3:hover {
-    color: rgb(27, 45, 209);
+    color: rgb(60, 128, 255);
     transition: 0.5s;
     transform: scale(0.9);
   }
@@ -194,6 +194,12 @@ font-size: 30px;
     transition: 0.5s;
     transform: scale(0.9);
   }
+
+.bxl-react:hover {
+  color: rgb(0, 226, 226);
+  transition: 0.5s;
+    transform: scale(0.9);
+}
 
   /*Redes Sociais / Minhas Recomendações*/
 
