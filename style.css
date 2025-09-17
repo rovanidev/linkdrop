@@ -177,19 +177,7 @@ font-size: 30px;
     transform: scale(0.9);
   }
 
-  .bxl-github:hover {
-    color: black;
-    transition: 0.5s;
-    transform: scale(0.9);
-  }
-  
-  .bxl-nodejs:hover {
-    color: rgb(4, 184, 4);
-    transition: 0.5s;
-    transform: scale(0.9);
-  }
-
-  .bx-git-branch:hover {
+  .bxl-java:hover {
     color: orange;
     transition: 0.5s;
     transform: scale(0.9);
